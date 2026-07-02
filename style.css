@@ -1,0 +1,475 @@
+.main{
+    margin-left: 60px;
+}
+
+.tag{
+    padding: 25px;
+}
+
+.tag p{float: left;font-size: 25px;color: black;}
+
+.tag h2{
+    float: left;
+    margin-right: 5px;
+    margin-top: 25px;
+    color: orange;
+}
+
+.anc{padding: 30px;margin-left: 531px;}
+
+.anc a{
+    padding: 25px;
+    text-decoration: 0px;
+    float: left;
+    margin-top: -45px;
+}
+
+.btn{margin-top: -12px;}
+
+.btn button{
+    background: blue;
+    color: white;
+    padding: 8px;
+    border-radius: 15px;
+}
+
+.mainpart{
+    margin-left: 75px;
+}
+
+.img{
+    position: absolute;
+}
+
+.img img{}
+
+.text{
+    font-size: 25px;
+}
+
+.text h1{}
+
+.para{}
+
+.para p{}
+
+.btn{
+    margin-top: -60px;
+}
+.btn button{}
+.btn2{
+    margin-top: 25px;
+}
+
+.btn2 a{
+    text-decoration: 0px;
+    color: blue;
+}
+
+.btn3{}
+
+.btn3 button{
+    background: blue;
+    color: white;
+    padding: 8px;
+    border-radius: 15px;
+    float: left;
+    margin-right: 30px;
+    }
+
+.img3{
+}
+
+.img3 img{margin-top: -296px;margin-left: 499px;position: relative;}
+
+.2ndpage{}
+
+.companies{
+    font-size: 20px;
+}
+
+.companies p{
+    position: relative;
+    margin-top: 70px;
+}
+
+.images{
+    font-size: 0px;
+    margin-left: 90px;
+}
+
+.images img{
+}
+
+.main2{}
+
+.left{}
+
+.left img{
+    position: absolute;
+}
+
+.right{
+    margin-left: 900px;
+}
+
+.h1tag{}
+
+.h1tag h2{}
+
+.par{}
+
+.par p{}
+
+.imageandtext{}
+
+.imageandtext img{
+    float: left;
+}
+
+.imageandtext h3{}
+
+.imageandtext p{}
+
+.imageandtext2{}
+
+.imageandtext2 img{
+    float: left;
+}
+
+.imageandtext2 h3{}
+
+.imageandtext2 p{}
+
+.imageandtext3{}
+
+.imageandtext3 img{
+    float: left;
+}
+
+.imageandtext3 h3{}
+
+.imageandtext3 p{}
+
+.3rdpage{margin-top : 300px;}
+
+.3rd1{}
+
+.3rd1 h1{}
+
+.para2{}
+
+.para2 p{}
+
+.imageandtext4{
+    float: left;
+    margin-right: 250px;
+}
+
+.imageandtext4 img{
+
+}
+
+.imageandtext4 h3{}
+
+.imageandtext4 p{}
+
+.imageandtext5{
+    float: left;
+    margin-right: 340px;
+}
+
+.imageandtext5 img{
+
+}
+
+.imageandtext5 h3{}
+
+.imageandtext5 p{}
+
+.imageandtext6{}
+
+.imageandtext6 img{
+
+}
+
+.imageandtext6 h3{}
+
+.imageandtext6 p{}
+
+.left{}
+
+.img5{}
+
+.img5 img{}
+
+.right{}
+
+.text6{}
+
+.text6 h1{}
+
+.para4{}
+
+.para4 p{}
+
+.btn5{}
+
+.btn5 button{
+    background: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 100px;
+}
+
+
+
+
+
+
+
+.main3{}
+.main4{
+    margin-top: 160px;
+    margin-left: 40px;
+    position: relative;
+}
+.htag{}
+.main5{
+    margin-top: 350px;
+}
+.tag{}
+.tag h1{}
+.para3{}
+.para3 p{}
+.imageandtext7{
+    float: left;
+    margin-left: 90px;
+    margin-right: 210px;
+}
+
+.imageandtext7 img{
+
+}
+
+.imageandtext7 h3{}
+
+.imageandtext7 p{}
+.imageandtext8{
+    margin-right: 290px;
+    float: left;
+}
+
+.imageandtext8 img{
+
+}
+
+.imageandtext8 h3{}
+
+.imageandtext8 p{}
+
+.imageandtext9{
+}
+
+.imageandtext9 img{
+
+}
+
+.imageandtext9 h3{}
+
+.imageandtext9 p{}
+
+.imageandtext10{
+    float: left;
+    margin-right: 290px;
+}
+
+.imageandtext10 img{
+
+}
+
+.imageandtext10 h3{}
+
+.imageandtext10 p{}
+
+.imageandtext11{
+    float: left;
+    margin-right: 220px;
+    margin-top: -200px;
+    margin-left: 80px;
+}
+
+.imageandtext11 img{
+
+}
+
+.imageandtext11 h3{}
+
+.imageandtext11 p{}
+
+.imageandtext12{}
+
+.imageandtext12 img{
+
+}
+
+.imageandtext12 h3{}
+
+.imageandtext12 p{}
+
+.main6{}
+.tag5{}
+.tag5 h1{}
+.para4{}
+.para4 p{}
+.imageandtext13{
+    margin-left: 80px;
+    float: left;
+}
+.imageandtext13 img{
+    margin-right: -70px;
+}
+
+.imageandtext13 h3{
+    margin-right: 160px;
+}
+
+.imageandtext13 p{}
+
+.imageandtext14{
+    margin-top: 110px;
+    margin-left: 70px;
+}
+.imageandtext14 img{margin-top: -100px;}
+
+.imageandtext14 h3{
+}
+
+.imageandtext14 p{}
+
+.imageandtext15{
+    margin-top: 160px;
+    margin-left: 60px;
+}
+.imageandtext15 img{margin-top: -110px;}
+
+.imageandtext15 h3{
+    margin-top: 50px;
+}
+
+.imageandtext15 p{
+    margin-top: 20px;
+    /* margin-left: 70px; */
+}
+
+.imageandtext16{
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.imageandtext16 img{margin-top: -110px;}
+
+.imageandtext16 h3{}
+
+.imageandtext16 p{}
+
+.butn{}
+.butn button{}
+.right{}
+.img9{
+    margin-top: -761px;
+}
+.img9 img{}
+.main8{
+    margin-top: 210px;
+}
+.text9{}
+.text9 h1{}
+.text10{}
+.text10 p{}
+.btn10{float: left;margin-left: 390px;}
+.btn10 button{
+    background: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+.btn11{}
+.btn11 button{
+    background: white;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.center{}
+.box5{
+    margin-right: 480px;
+}
+.box5 p{
+    font-size: 40px;
+}
+.box5 h4{
+    font-size: 20px;
+}
+.box5 h5{
+    background: whitesmoke;
+    font-size: 10px;
+}
+.box6{
+    margin-right: 450px;
+}
+.box6 p{}
+.btn13{
+    margin-right: 470px;
+}
+.btn13 button{
+    padding: 10px;
+    color: white;
+    background: blue;
+    border-radius: 30px;
+}
+.center1{
+    margin-top: -390px;
+    margin-left: 470px;
+}
+.box14{}
+.box14 p{
+    font-size: 40px;
+}
+.box14 h4{
+    font-size: 20px;
+}
+.box14 h5{
+    font-size: 10px;
+}
+.box16{}
+.box16 p{}
+.box16 h5{}
+.btn17{}
+.btn17 button{
+    background: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+}
+.main15{
+    margin-top: 850px;
+    margin-left: 70px;
+}
+.left{}
+.img9{}
+.img9 img{}
+.right{}
+.text{}
+.text p{}
+
+
+
+
+
+
+
+
+
+
+
+
